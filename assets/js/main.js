@@ -196,7 +196,7 @@
         }
     });
     if ($("#countdown").length) {
-        $("#countdown").countdown("2024/12/15", function (event) {
+        $("#countdown").countdown("2025/03/30", function (event) {
             $(this).html(
                 event.strftime(
                     "" +
